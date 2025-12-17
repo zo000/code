@@ -1,2 +1,6 @@
 ak test
 "LTAI5tKkCptkmv3pRzuxxkuo"
+
+
+url = "https://xxxx.yo-star.com"  
+access_key = "LTAI5tKkCptkmv3pRzuxxkuo"
